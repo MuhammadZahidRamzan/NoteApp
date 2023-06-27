@@ -1,4 +1,4 @@
-package com.plcoding.cleanarchitecturenoteapp
+package com.example.noteapp
 
 import org.junit.Test
 
